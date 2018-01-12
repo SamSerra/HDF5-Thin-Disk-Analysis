@@ -1,0 +1,26 @@
+#DOMAINS 1
+#DIRECTORIES 
+proc0000
+#DIMENSIONS 2
+#NUMBEROFFIELDS  18
+#SCALARFIELD  boostFactor
+#SCALARFIELD  squareRootMetricDet
+#SCALARFIELD  massDensity
+#SCALARFIELD  energyDensity
+#SCALARFIELD  pressure
+#SCALARFIELD  temperature
+#SCALARFIELD  totalEnergyDensity
+#SCALARFIELD  radiationEnergy
+#SCALARFIELD  radiationTotalEnergy
+#SCALARFIELD  velocity3
+#SCALARFIELD  momentum3
+#SCALARFIELD  radiationVelocity3
+#SCALARFIELD  radiationMomentum3
+#VECTORFIELD  velocity
+#VECTORFIELD  momentum
+#VECTORFIELD  radiationVelocity
+#VECTORFIELD  radiationMomentum
+#VECTORFIELD  nodePosition
+#TIMESTEPS 1
+#DUMP_CYCLE_TIME_DATAFILE_GRIDFILE
+0 0 0.000000e+00 outHDF5-cycle0000 gridoutHDF5-cycle0000

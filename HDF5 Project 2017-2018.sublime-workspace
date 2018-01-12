@@ -1,0 +1,551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"xA",
+				"xArray"
+			],
+			[
+				"max",
+				"maxbound"
+			],
+			[
+				"rad",
+				"radAvg"
+			],
+			[
+				"the",
+				"thetaAvg"
+			],
+			[
+				"mass",
+				"mass_density_array"
+			],
+			[
+				"thet",
+				"thetaAvg"
+			],
+			[
+				"Conver",
+				"ConvertToPolar"
+			],
+			[
+				"x",
+				"xArray"
+			],
+			[
+				"y",
+				"yArray"
+			],
+			[
+				"chunk",
+				"chunk_size"
+			],
+			[
+				"chu",
+				"chunk_size"
+			],
+			[
+				"chunk_",
+				"chunk_size"
+			],
+			[
+				"n",
+				"ncnt"
+			],
+			[
+				"data",
+				"datasetName"
+			],
+			[
+				"file",
+				"fileExtension"
+			],
+			[
+				"daa",
+				"datasetName"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"V",
+				"V_1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Main/Maine.py",
+			"settings":
+			{
+				"buffer_size": 3390,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Main/MaineSuplementaryFunctions.py",
+			"settings":
+			{
+				"buffer_size": 1289,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Main/main-shakura_01E_PP.cc",
+			"settings":
+			{
+				"buffer_size": 66813,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Main/PostProcess.hh",
+			"settings":
+			{
+				"buffer_size": 85218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Test Data/output/out-Shakura_01E.cosmos++",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 900.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"",
+				"Build With: Python"
+			]
+		],
+		"width": 985.0
+	},
+	"console":
+	{
+		"height": 378.0,
+		"history":
+		[
+			"import h5py",
+			"f = h5py.File(\"testfile.hdf5\", \"w\")",
+			"adf",
+			"python test",
+			"print(dset)",
+			"type(out)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/samps/Projects/HDF5 Project/MaineSuplementaryFunctions.py",
+		"/C/Users/samps/Projects/HDF5 Project/main-shakura_01E_PP.cc",
+		"/C/Users/samps/Projects/HDF5 Project/PostProcess.hh",
+		"/C/Users/samps/Projects/HDF5 Project/Grid Test Plot.py",
+		"/C/Users/samps/Projects/HDF5 Project/Shell Mass Density Test.py",
+		"/C/Users/samps/Projects/HDF5 Project/Maine.py",
+		"/C/Users/samps/Projects/HDF5 Project/massDensityTest.txt",
+		"/C/Users/samps/Projects/HDF5 Project/Ploting Modules/BUMPS.py",
+		"/C/Users/samps/Desktop/HDF5 Project/PostProcess.hh",
+		"/C/Users/samps/Desktop/HDF5 Project/massDensityTest.txt",
+		"/C/Users/samps/Desktop/HDF5 Project/ShellMassDensity Test.txt",
+		"/C/Users/samps/Desktop/Files/Programing/Python/SGPfPM/Computer Lab 1_HIVexample.py",
+		"/C/Users/samps/Desktop/Files/Programing/Python/SGPfPM/C2.py",
+		"/C/Users/samps/Desktop/Files/Programing/Python/SGPfPM/Chapter 6 Computer Lab Part 2y.py",
+		"/C/Users/samps/Desktop/Files/Programing/Python/SGPfPM/Chapter 6 Computer Lab Part 1.py",
+		"/C/Users/samps/Desktop/HDF5 Project/PROGRAM Hello.f90",
+		"/C/Users/samps/Desktop/HDF5 Project/Ploting Modules/BUMPS.py",
+		"/C/Users/samps/Desktop/HDF5 Project/Ploting Modules/Original Ploting Files/height.py",
+		"/C/Users/samps/Desktop/HDF5 Project/Ploting Modules/BMUSPlotModule.py",
+		"/C/Users/samps/Desktop/Research Projects/HDF5/output/out-Shakura_01E.cosmos++",
+		"/C/Users/samps/Desktop/Research Projects/HDF5/HDF5 and Python--Collete (O'Reilly Book)/test_hdf5_file.py",
+		"/C/Users/samps/Desktop/test.py",
+		"/C/Users/samps/Desktop/Research Projects/Py Scripts Project/BMUSPlotModule.py",
+		"/C/Users/samps/Desktop/Research Projects/Py Scripts Project/gmode.py",
+		"/C/Users/samps/Desktop/Files/Programing/Python/SGPfPM/Chapter 6 Computer Lab Part 1",
+		"/C/Users/samps/Desktop/test",
+		"/C/Users/samps/Desktop/Files/Programing/Web Development/HTML5/Tut/3/index.html",
+		"/C/Users/samps/Desktop/Files/Programing/Web Development/Java Script/Tut Files/JS31/index.html",
+		"/C/Users/samps/Desktop/Files/Programing/Web Development/XHTMLCSS/Acount Creation Web Site/index.html",
+		"/C/Users/samps/Desktop/Files/Programing/Web Development/XHTMLCSS/index.html",
+		"/C/Users/samps/Desktop/Files/Programing/Racket EDX/cowabunga-starter.rkt",
+		"/C/Users/samps/Desktop/Files/Programing/Java/Projects/Grade Calculator/src/CourseGrade.java",
+		"/C/Users/samps/Desktop/Files/Programing/Java/Projects/Intro To OOP-Car/src/Car.java",
+		"/C/Users/samps/Desktop/Files/Programing/C/My_First_Program/main.c",
+		"/C/Users/samps/Downloads/alpha",
+		"/C/Users/samps/Desktop/Files/Programing/Python/SGPfPM Chapter 2/y_values.npy",
+		"/C/Users/samps/Desktop/Files/Programing/Python/SGPfPM Chapter 2/x_values.npy",
+		"/C/Users/samps/Desktop/Files/Programing/Python/SGPfPM Chapter 2/01HIVseries/HIVseries.npy"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 246.0,
+		"where_history":
+		[
+			"<current file>",
+			"Maine.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gist_heat",
+			"   \t",
+			"azimuths",
+			"zeniths",
+			")",
+			"setZoneGeometry",
+			"chunk",
+			"ncnt",
+			"chunk",
+			"dset",
+			"getZone",
+			"KLMMesh",
+			"*mesh",
+			"(*mesh)",
+			"mNumZones",
+			"mNumScalarFields",
+			"pp.read",
+			"alpha",
+			"mesh",
+			"font",
+			"\t",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hot",
+			"theta",
+			"radius",
+			"chunk_size",
+			"n",
+			"chunk_size",
+			"data"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Main/Maine.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Main/MaineSuplementaryFunctions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Main/main-shakura_01E_PP.cc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Main/PostProcess.hh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Test Data/output/out-Shakura_01E.cosmos++",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								553
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 227.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HDF5 Project 2017-2018.sublime-project",
+	"replace":
+	{
+		"height": 95.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
